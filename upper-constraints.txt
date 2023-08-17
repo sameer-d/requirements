@@ -55,7 +55,7 @@ oslo.context===5.1.1
 python-senlinclient===3.0.0
 rcssmin===1.1.1
 pycadf===3.1.1
-grpcio===1.54.0
+grpcio===1.53.0
 pysendfile===2.0.1
 sniffio===1.3.0
 fixtures===4.0.1
@@ -184,7 +184,7 @@ python-subunit===1.4.2
 tornado===6.3.1
 pycparser===2.21
 mock===5.0.2
-PyYAML===6.0
+PyYAML===6.0.1
 beautifulsoup4===4.12.2
 os-net-config===16.0.0
 ovs===2.17.1.post1
